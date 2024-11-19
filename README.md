@@ -1,4 +1,4 @@
-#  Hi👋, I’m @joseph :)
+#  Hi👋, I’m Joseph :)
 
 
 <!---
