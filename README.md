@@ -24,11 +24,29 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="https://leetcode.com/u/josephfrancis23/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a> 
- </div> 
 
+  <!--   
+  </a>
+   <a href="https://www.hackerrank.com/profile/josephthekkanat1" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
+  </a>
+  -->
+  </div> 
 
+<br>
+
+ <h2 align="center">⚒️ Languages-Tools-Designs ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,html,vscode,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p />
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,java" /><br>
+    
+    -------------------- CANVA  look for other cions also.....
+</div>
+
+<br/>
 
 
 
