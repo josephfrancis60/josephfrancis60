@@ -41,9 +41,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,html,vscode,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p />
-    <img src="https://skillicons.dev/icons?i=python,c,mysql,java" /><br>
-    
-    -------------------- CANVA  look for other cions also.....
+    <img src="https://skillicons.dev/icons?i=python,c,git,java" /><br>
+
+  <!--- add logos fro canva and other new 
+  --->
 </div>
 
 <br/>
