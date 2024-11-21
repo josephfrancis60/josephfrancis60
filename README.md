@@ -27,9 +27,11 @@
   
 <br/>
 
-<img align="right" width="250" src=https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif />
+<img align="right" width="250" src=https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 />
 <!--- 
-another GIF -   https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966
+another GIF -
+https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
+
 --->
  
 <div align="left">
@@ -54,7 +56,7 @@ another GIF -   https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a567
     <img src="https://skillicons.dev/icons?i=python,cpp,vscode,c,git,java" /><br>
     
 
-  <!--- add logos fro canva and other new     <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> - square canva logo
+  <!--- add logos fro canva and other new      square canva logo - <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> 
   --->
 </div>
 
