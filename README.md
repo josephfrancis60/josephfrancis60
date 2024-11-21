@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,html" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p />
-    <img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,c,git,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,c,git,java" /><img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /><br>
 
   <!--- add logos fro canva and other new 
   --->
