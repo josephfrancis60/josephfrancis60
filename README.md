@@ -8,7 +8,9 @@
 
 <br/>
 
-<div align="center">
+<img align="right" width="300" src=https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 />
+ 
+<div align="left">
  
  🔭 Always working on **something new...**
  
@@ -20,7 +22,7 @@
 
  </div>
 
- <div align="center"> 
+ <div align="left"> 
   <a href="mailto:josephfrancis6650@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -44,10 +46,11 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools-Designs ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,html" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p />
-    <img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,c,git,java" /><img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p /><img src=https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000 />
+    <img src="https://skillicons.dev/icons?i=python,cpp,vscode,c,git,java" /><br>
+    
 
-  <!--- add logos fro canva and other new 
+  <!--- add logos fro canva and other new     <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> - square canva logo
   --->
 </div>
 
@@ -64,7 +67,9 @@
 
 <br/><br/>
 
-
+<div align="center">
+  Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅.
+</div> 
 
 
 
