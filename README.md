@@ -42,7 +42,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
  
  🌱 I’m currently learning **Pandas , Power BI**
 
- 🌱 Exploring new frameworks and techniques in **Data Visualizations**
+ 🧭 Exploring new frameworks and techniques in **Data Visualizations**
 
 ⚡ Fun fact **The Eiffel Tower can be 15 cm taller during the summer**
 
