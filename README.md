@@ -67,7 +67,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 <div align="center">
   <h2>🐍Snake eating My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/output/github-contribution-grid-snake-dark-1.svg" />
   
   <br/>
 </div>
