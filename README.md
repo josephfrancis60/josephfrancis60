@@ -55,7 +55,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,html,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p /><img src=https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000 />
-    <img src="https://skillicons.dev/icons?i=python,cpp,vscode,c,git,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,githubactions,cpp,vscode,c,git,java" /><br>
     
 
   <!--- add logos fro canva and other new      square canva logo - <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> 
