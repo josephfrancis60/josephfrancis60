@@ -6,18 +6,31 @@
 
 <h3 align="center">A passionate software developer & Analyst from India </h3>
 
-<div align="center"> 
+<div align="center">
+    <a href="mailto:josephfrancis6650@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail-josephfrancis6650@gmail.com" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/josephfrancis23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="josephfrancis23" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/josephfrancis23/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="josephfrancis23" height="30" width="40" /></a>
+
+
+
+
+ <!--   
+ <a href="https://www.hackerrank.com/josephthekkanat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="josephthekkanat1" height="30" width="40" /></a>
+
+
+
+ 
   <a href="mailto:josephfrancis6650@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="http://www.linkedin.com/in/josephfrancis23" target="_blank">
+ <a href="http://www.linkedin.com/in/josephfrancis23" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="https://leetcode.com/u/josephfrancis23/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a> 
 
-  <!--   
+  
   </a>
    <a href="https://www.hackerrank.com/profile/josephthekkanat1" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
@@ -28,7 +41,7 @@
 <br/>
 
 <!---
-GIF
+ADDING GIF
 <img align="right" width="250" src=https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 />
  
 another GIF -
@@ -54,11 +67,15 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
  <h2 align="center">⚒️ Languages-Frameworks-Tools-Designs ⚒️</h2>
 <br/>
 <div align="center">
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+
+  <!--- 
     <img src="https://skillicons.dev/icons?i=mysql,html,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p /><img src=https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000 />
     <img src="https://skillicons.dev/icons?i=python,githubactions,cpp,vscode,c,git,java" /><br>
     
 
-  <!--- add logos fro canva and other new      square canva logo - <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> 
+     add logos fro canva and other new      square canva logo - <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> 
   --->
 </div>
 
