@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+:);" />
 </h1>
 
-<h3 align="center">A passionate software developer & Analyst from India </h3>
+<h3 align="center">A passionate Software Developer & Analyst from India </h3>
 
 <div align="center">
 <a href="https://linkedin.com/in/josephfrancis23" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="josephfrancis23" height="30" width="40" /></a>
