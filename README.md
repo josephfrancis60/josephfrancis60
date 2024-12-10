@@ -27,10 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="https://leetcode.com/u/josephfrancis23/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
-  </a> 
-
-  
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /> 
   </a>
    <a href="https://www.hackerrank.com/profile/josephthekkanat1" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
@@ -53,9 +50,9 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
  
  🔭 Always working on **something new...**
  
- 🌱 I’m currently learning **Pandas , Power BI**
+ 🌱 I’m currently learning **Python, JavaScript, Power BI**
 
- 🧭 Exploring new frameworks and techniques in **Data Visualizations**
+ 🧭 Exploring new frameworks and techniques in **Web Development & Data Visualizations**
 
 ⚡ Fun fact **The Eiffel Tower can be 15 cm taller during the summer**
 
@@ -70,7 +67,11 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
-  <!--- 
+  
+  
+  
+  <!---
+  ANOTHER WAY FOR TECH STATS
     <img src="https://skillicons.dev/icons?i=mysql,html,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p /><img src=https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000 />
     <img src="https://skillicons.dev/icons?i=python,githubactions,cpp,vscode,c,git,java" /><br>
     
