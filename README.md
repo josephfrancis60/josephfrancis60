@@ -95,7 +95,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josephfrancis60&theme=yellowdark&border_radius=10" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=josephfrancis60&theme=yellowdark&border_radius=10" alt="GitHub Streak" /></a>
   <br/>  
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="top" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=josephfrancis60&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  
