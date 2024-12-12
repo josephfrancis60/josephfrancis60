@@ -92,13 +92,16 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
   <br/>
 </div>
 
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=josephfrancis60&theme=yellowdark&border_radius=10" alt="GitHub Streak" /></a>
-  <br/>  
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="top" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=josephfrancis60&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  
+    <img src="https://streak-stats.demolab.com?user=josephfrancis60&theme=yellowdark&border_radius=10" alt="GitHub Streak" /></a>
+    <br />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=josephfrancis60&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=325 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />  
+    
 </div>
 
 <br/><br/>
@@ -109,8 +112,15 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 
 
 
-<!-- DO CONTRIBUTION GRAPH SANKE WITH GITHUB ACTIONS.... -->
 <!---
 josephfrancis60/josephfrancis60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=josephfrancis60&hide_border=true&include_all_commits=true)<br/>                          2
+![](https://github-readme-streak-stats.herokuapp.com/?user=josephfrancis60&hide_border=true)<br/>                                                                   1
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=true&include_all_commits=true&count_private=true)     3
+-->
+
