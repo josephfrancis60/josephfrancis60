@@ -87,7 +87,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 <br/>
 
 <div align="center">
-  <h2>🐍Snake eating My Contributions 🐍</h2>
+  <h2>🐍This Snake is how i know GitHub Actions🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/output/github-contribution-grid-snake-dark-1.svg" />
   
