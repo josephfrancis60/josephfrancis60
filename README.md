@@ -51,7 +51,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
  
  🔭 Always working on **something new...**
  
- 🌱 I’m currently learning **Python, Robot Framewrok Scripting**
+ 🌱 I’m currently learning **Python, AI Automation**
 
  🧭 Exploring new frameworks and techniques in **Web Development & Data Visualizations**
 
