@@ -41,7 +41,7 @@ https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
 --->
 
  <p align="center">
-  <h3 align="center">Full Stack Developer | .NET & React Specialist | AI Automation Explorer</h3>
+  <h3 align="center">Full Stack Developer | .NET & React | AI Automation Explorer</h3>
 </p>
 
 <p align="center">
