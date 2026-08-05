@@ -1,0 +1,12 @@
+<svg width="125" height="33" viewBox="0 0 125 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Markdown">
+  <title>Markdown</title>
+  <rect x="3" y="3" width="122" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="122" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="122" height="30" fill="#FFFFFF" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="119" height="27" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M22.27 19.385H1.73A1.73 1.73 0 010 17.655V6.345a1.73 1.73 0 011.73-1.73h20.54A1.73 1.73 0 0124 6.345v11.308a1.73 1.73 0 01-1.73 1.731zM5.769 15.923v-4.5l2.308 2.885 2.307-2.885v4.5h2.308V8.078h-2.308l-2.307 2.885-2.308-2.885H3.46v7.847zM21.232 12h-2.309V8.077h-2.307V12h-2.308l3.461 4.039z" fill="#FFFFFF"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#FFFFFF" dominant-baseline="central">Markdown</text>
+</svg>

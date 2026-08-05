@@ -1,0 +1,19 @@
+<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="divider">
+  <title>divider</title>
+  <!-- Left bracket -->
+  <rect x="0"  y="8" width="2" height="4" fill="#00F0FF"/>
+  <rect x="2"  y="6" width="2" height="8" fill="#00F0FF"/>
+  <rect x="4"  y="4" width="2" height="12" fill="#00F0FF"/>
+  <rect x="6"  y="8" width="4" height="4" fill="#00F0FF"/>
+  <!-- Center line -->
+  <rect x="14" y="9" width="772" height="2" fill="#00F0FF" opacity="0.25"/>
+  <!-- Center diamond accent -->
+  <rect x="394" y="6" width="4" height="2" fill="#FF2E88"/>
+  <rect x="392" y="8" width="8" height="4" fill="#FF2E88"/>
+  <rect x="394" y="12" width="4" height="2" fill="#FF2E88"/>
+  <!-- Right bracket (mirrored) -->
+  <rect x="790" y="8" width="2" height="4" fill="#00F0FF"/>
+  <rect x="792" y="6" width="2" height="8" fill="#00F0FF"/>
+  <rect x="794" y="4" width="2" height="12" fill="#00F0FF"/>
+  <rect x="786" y="8" width="4" height="4" fill="#00F0FF"/>
+</svg>

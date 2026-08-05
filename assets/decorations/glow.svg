@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="glow">
+  <title>glow</title>
+  <defs>
+    <radialGradient id="glowgrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#00F0FF" stop-opacity="0.18"/>
+      <stop offset="60%"  stop-color="#FF2E88" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#0D0221" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#glowgrad)"/>
+</svg>

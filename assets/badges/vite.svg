@@ -1,0 +1,12 @@
+<svg width="95" height="33" viewBox="0 0 95 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Vite">
+  <title>Vite</title>
+  <rect x="3" y="3" width="92" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="92" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="92" height="30" fill="#9135FF" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="89" height="27" fill="none" stroke="#9135FF" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#9135FF">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M13.056 23.238a.57.57 0 0 1-1.02-.355v-5.202c0-.63-.512-1.143-1.144-1.143H5.148a.57.57 0 0 1-.464-.903l3.777-5.29c.54-.753 0-1.804-.93-1.804H.57a.574.574 0 0 1-.543-.746.6.6 0 0 1 .08-.157L5.008.78a.57.57 0 0 1 .467-.24h14.589a.57.57 0 0 1 .466.903l-3.778 5.29c-.54.755 0 1.806.93 1.806h5.745c.238 0 .424.138.513.322a.56.56 0 0 1-.063.603z" fill="#9135FF"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#9135FF" dominant-baseline="central">Vite</text>
+</svg>

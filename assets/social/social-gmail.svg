@@ -1,0 +1,12 @@
+<svg width="101" height="33" viewBox="0 0 101 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="EMAIL">
+  <title>EMAIL</title>
+  <rect x="3" y="3" width="98" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="98" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="98" height="30" fill="#EA4335" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="95" height="27" fill="none" stroke="#EA4335" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#EA4335">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#EA4335"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#EA4335" dominant-baseline="central">EMAIL</text>
+</svg>

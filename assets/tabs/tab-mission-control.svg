@@ -1,0 +1,36 @@
+<svg width="310" height="38" viewBox="0 0 310 38" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="MISSION_CONTROL.exe">
+  <title>MISSION_CONTROL.exe</title>
+  <!-- Shadow -->
+  <rect x="4" y="4" width="306" height="34" fill="#000000" opacity="0.6"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="306" height="34" fill="#0D0221"/>
+  <!-- Color tint -->
+  <rect x="0" y="0" width="306" height="34" fill="#FF2E88" opacity="0.10"/>
+  <!-- Border -->
+  <rect x="2" y="2" width="302" height="30" fill="none" stroke="#FF2E88" stroke-width="2"/>
+  <!-- Corner accents -->
+  <rect x="0" y="0" width="4" height="4" fill="#FF2E88"/>
+  <rect x="302" y="0" width="4" height="4" fill="#FF2E88"/>
+  <rect x="0" y="30" width="4" height="4" fill="#FF2E88"/>
+  <rect x="302" y="30" width="4" height="4" fill="#FF2E88"/>
+  <!-- Pixel Icon: Radar/Signal -->
+  <g transform="translate(12, 7)">
+    <rect x="8" y="0" width="2" height="2" fill="#FF2E88"/>
+    <rect x="4" y="2" width="2" height="2" fill="#FF2E88"/>
+    <rect x="12" y="2" width="2" height="2" fill="#FF2E88"/>
+    <rect x="2" y="4" width="2" height="2" fill="#FF2E88"/>
+    <rect x="6" y="4" width="6" height="2" fill="#FF2E88"/>
+    <rect x="14" y="4" width="2" height="2" fill="#FF2E88"/>
+    <rect x="0" y="6" width="2" height="2" fill="#FF2E88"/>
+    <rect x="6" y="6" width="6" height="2" fill="#FF2E88"/>
+    <rect x="16" y="6" width="2" height="2" fill="#FF2E88"/>
+    <rect x="2" y="8" width="2" height="2" fill="#FF2E88"/>
+    <rect x="6" y="8" width="6" height="2" fill="#FF2E88"/>
+    <rect x="14" y="8" width="2" height="2" fill="#FF2E88"/>
+    <rect x="4" y="10" width="2" height="2" fill="#FF2E88"/>
+    <rect x="12" y="10" width="2" height="2" fill="#FF2E88"/>
+    <rect x="8" y="12" width="2" height="2" fill="#FF2E88"/>
+  </g>
+  <!-- Label -->
+  <text x="46" y="18" font-family="'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#FF2E88" dominant-baseline="central">MISSION_CONTROL.exe</text>
+</svg>

@@ -1,143 +1,256 @@
-<!-- <img align="right" src="https://visitcount.itsvg.in/api?id=josephfrancis60&icon=10&color=3" /> -->
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+:);" />
-</h1>
-
-<!-- <h3 align="center">A passionate Software Developer & Analyst from India </h3> -->
-
-
- <!--   
- <a href="https://www.hackerrank.com/josephthekkanat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="josephthekkanat1" height="30" width="40" /></a>
-
-
-
- 
-  <a href="mailto:josephfrancis6650@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
- <a href="http://www.linkedin.com/in/josephfrancis23" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://leetcode.com/u/josephfrancis23/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /> 
-  </a>
-   <a href="https://www.hackerrank.com/profile/josephthekkanat1" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
-  </a>
-  -->
-  </div> 
-  
-<!-- <br/> -->
-
-<!---
-ADDING GIF
-<img align="right" width="250" src=https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 />
- 
-another GIF -
-https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif
-
---->
-
- <p align="center">
-  <h3 align="center">Full Stack Developer | .NET & React | AI Automation Explorer</h3>
+<!-- ══════════════════════════════════════════════════════════════════
+     HEADER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/banners/banner-header.svg" width="100%" alt="Hi There, I'm Joseph" />
 </p>
 
 <p align="center">
-  Building scalable web applications, architecting clean backend systems, and exploring AI-powered workflows.
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=2800&pause=1000&color=00F0FF&background=0D0221&center=true&vCenter=true&width=820&height=50&lines=%3E+Building+multi-agent+AI+platforms;%3E+Automating+workflows+with+n8n;%3E+Wiring+voice+agents+with+ElevenLabs;%3E+Full+Stack+Dev+%7C+.NET+%2B+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🇮🇳 India &nbsp; • &nbsp; 💡 Software Developer & Analyst &nbsp; • &nbsp; 🧠 OOP & Architecture Enthusiast
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=josephfrancis60&label=PROFILE+VIEWS&color=0D0221&style=for-the-badge&labelColor=00F0FF" alt="Profile views" /></a>
+  <img src="https://img.shields.io/github/followers/josephfrancis60?label=FOLLOWERS&style=for-the-badge&color=0D0221&labelColor=FF2E88" alt="Followers" />
 </p>
 
-<div align="center">
-<a href="https://linkedin.com/in/josephfrancis23" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="josephfrancis23" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/josephfrancis23/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="josephfrancis23" height="30" width="40" /></a>
-<a href="mailto:josephfrancis6650@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail-josephfrancis6650@gmail.com" height="30" width="30" /></a>
-
-
-<h2 align="center"> 🧠 About Me </h2>
-<div align="center">
- 
- 🔭 Currently building **enterprise-grade web applications**
- 
- 🌱 Learning **AI automation, system design & scalable backend architecture**
-
- 🏗️ Strong focus on **OOP principles & clean architecture**
-
- 📊 Interested in **Data Visualizations & Business Intelligence**
-
-⚡ Fun fact: The Eiffel Tower grows ~15 cm taller in summer 😄
-
- </div> 
-
-
-<br>
-
- <h2 align="center">⚒️ Languages-Frameworks-Tools-Designs ⚒️</h2>
-<br/>
-<div align="center">
-
-
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-
-
-
-  
-  
-  
-  <!---
-  ANOTHER WAY FOR TECH STATS
-    <img src="https://skillicons.dev/icons?i=mysql,html,github" /><img src=https://img.icons8.com/?size=50&id=Ny0t2MYrJ70p /><img src=https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000 />
-    <img src="https://skillicons.dev/icons?i=python,githubactions,cpp,vscode,c,git,java" /><br>
-    
-
-     add logos fro canva and other new      square canva logo - <img src=https://img.icons8.com/?size=60&id=EZQdGLNeo7JI&format=png&color=000000 /> 
-  --->
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/josephfrancis23" target="_blank" rel="noopener noreferrer"><img src="./assets/social/social-linkedin.svg" height="30" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:josephfrancis6650@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./assets/social/social-gmail.svg" height="30" alt="Email" /></a>&nbsp;
+  <a href="https://leetcode.com/u/josephfrancis23/" target="_blank" rel="noopener noreferrer"><img src="./assets/social/social-leetcode.svg" height="30" alt="LeetCode" /></a>&nbsp;
+  <a href="https://github.com/josephfrancis60" target="_blank" rel="noopener noreferrer"><img src="./assets/social/social-github.svg" height="30" alt="GitHub" /></a>
+</p>
 
 <br/>
 
-<div align="center">
-  <h2>🐍This Snake is how i know GitHub Actions🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/output/github-contribution-grid-snake-dark-1.svg" />
-  
-  <br/>
-</div>
+<!-- ══════════════════════════════════════════════════════════════════
+     DIVIDER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/decorations/divider.svg" width="100%" alt="" />
+</p>
 
+<!-- ══════════════════════════════════════════════════════════════════
+     ABOUT  //  SYSTEM CAPABILITIES
+══════════════════════════════════════════════════════════════════ -->
+<p align="left">
+  <img src="./assets/tabs/tab-about.svg" height="38" alt="About Me" />
+</p>
 
+<br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center> 
-    <img src="https://streak-stats.demolab.com?user=josephfrancis60&theme=yellowdark&border_radius=10" alt="GitHub Streak" /></a> 
-    <br /> 
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=josephfrancis60&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" /> 
-    <img width=325 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" /> 
-</div>
+<p align="center">
+  <img src="./assets/cards/capability-panel.svg" width="560" alt="System Capabilities" />
+</p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     DIVIDER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/decorations/divider.svg" width="100%" alt="" />
+</p>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     MISSION CONTROL  //  TECH STACK DASHBOARD
+══════════════════════════════════════════════════════════════════ -->
+<p align="left">
+  <img src="./assets/tabs/tab-mission-control.svg" height="38" alt="Mission Control" />
+</p>
+
+<!-- <sub>&nbsp;// 53 custom pixel-chip badges — real logos, official brand colors, zero shields.io &nbsp;</sub> -->
 
 <br/><br/>
 
+<p align="center">
+  <!-- AI Systems -->
+  <img src="./assets/badges/n8n.svg" height="30"/>
+  <img src="./assets/badges/langchain.svg" height="30"/>
+  <img src="./assets/badges/langgraph.svg" height="30"/>
+  <img src="./assets/badges/claude.svg" height="30"/>
+  <img src="./assets/badges/elevenlabs.svg" height="30"/>
+  <br/>
+  <!-- Build Stack -->
+  <img src="./assets/badges/react.svg" height="30"/>
+  <img src="./assets/badges/nextjs.svg" height="30"/>
+  <img src="./assets/badges/dotnet.svg" height="30"/>
+  <img src="./assets/badges/nodedotjs.svg" height="30"/>
+  <img src="./assets/badges/express.svg" height="30"/>
+  <img src="./assets/badges/fastapi.svg" height="30"/>
+  <img src="./assets/badges/flask.svg" height="30"/>
+  <img src="./assets/badges/vite.svg" height="30"/>
+  <img src="./assets/badges/angular.svg" height="30"/>
+  <img src="./assets/badges/bootstrap.svg" height="30"/>
+  <br/>
+  <!-- Infrastructure -->
+  <img src="./assets/badges/docker.svg" height="30"/>
+  <img src="./assets/badges/kubernetes.svg" height="30"/>
+  <img src="./assets/badges/azure.svg" height="30"/>
+  <img src="./assets/badges/googlecloud.svg" height="30"/>
+  <img src="./assets/badges/github.svg" height="30"/>
+  <img src="./assets/badges/git.svg" height="30"/>
+  <img src="./assets/badges/vercel.svg" height="30"/>
+  <img src="./assets/badges/render.svg" height="30"/>
+  <img src="./assets/badges/netlify.svg" height="30"/>
+  <br/>
+  <!-- Data -->
+  <img src="./assets/badges/postgresql.svg" height="30"/>
+  <img src="./assets/badges/mssql.svg" height="30"/>
+  <img src="./assets/badges/mysql.svg" height="30"/>
+  <img src="./assets/badges/sqlite.svg" height="30"/>
+  <img src="./assets/badges/jwt.svg" height="30"/>
+  <br/>
+  <!-- Creator Toolkit -->
+  <img src="./assets/badges/postman.svg" height="30"/>
+  <img src="./assets/badges/swagger.svg" height="30"/>
+  <img src="./assets/badges/openapiinitiative.svg" height="30"/>
+  <img src="./assets/badges/figma.svg" height="30"/>
+  <img src="./assets/badges/canva.svg" height="30"/>
+  <img src="./assets/badges/powerbi.svg" height="30"/>
+  <img src="./assets/badges/twilio.svg" height="30"/>
+  <img src="./assets/badges/arduino.svg" height="30"/>
+  <img src="./assets/badges/raspberrypi.svg" height="30"/>
+  <br/>
+  <!-- Languages -->
+  <img src="./assets/badges/python.svg" height="30"/>
+  <img src="./assets/badges/csharp.svg" height="30"/>
+  <img src="./assets/badges/cplusplus.svg" height="30"/>
+  <img src="./assets/badges/typescript.svg" height="30"/>
+  <img src="./assets/badges/javascript.svg" height="30"/>
+  <img src="./assets/badges/html5.svg" height="30"/>
+  <img src="./assets/badges/css.svg" height="30"/>
+  <img src="./assets/badges/markdown.svg" height="30"/>
+  <img src="./assets/badges/gnubash.svg" height="30"/>
+  <img src="./assets/badges/powershell.svg" height="30"/>
+</p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     DIVIDER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/decorations/divider.svg" width="100%" alt="" />
+</p>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     CONTRIBUTION ACTIVITY
+══════════════════════════════════════════════════════════════════ -->
+<p align="left">
+  <img src="./assets/tabs/tab-contributions.svg" height="38" alt="Contribution Activity" />
+</p>
+
+<br/>
+
 <div align="center">
-  Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅.
-</div> 
+  <img src="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/output/github-contribution-grid-snake-dark-1.svg" alt="contribution snake animation" />
+</div>
 
+<br/>
 
+<!-- ──────────────────────────────── Metrics: Activity  ─────────────── -->
+<p align="center">
+  <img src="./assets/metrics/metrics-activity.svg" width="100%" alt="Recent Activity" />
+</p>
 
-<!---
-josephfrancis60/josephfrancis60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=josephfrancis60&hide_border=true&include_all_commits=true)<br/>                          2
-![](https://github-readme-streak-stats.herokuapp.com/?user=josephfrancis60&hide_border=true)<br/>                                                                   1
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=true&include_all_commits=true&count_private=true)     3
--->
+<!-- ══════════════════════════════════════════════════════════════════
+     DIVIDER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/decorations/divider.svg" width="100%" alt="" />
+</p>
 
+<!-- ══════════════════════════════════════════════════════════════════
+     PERFORMANCE ANALYTICS
+══════════════════════════════════════════════════════════════════ -->
+<p align="left">
+  <img src="./assets/tabs/tab-performance.svg" height="38" alt="Performance Analytics" />
+</p>
+
+<br/>
+
+<!-- GitHub Stats Table (rate-limit-safe, custom Vercel endpoints) -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/josephfrancis60">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=synthwave&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&border_radius=0&cache_seconds=86400" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/josephfrancis60">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=josephfrancis60&theme=nightowl&background=0,000000,1a0040&fire=00F0FF&ring=FF2E88&sideNums=ffffff&sideLabels=ffffff&dates=00F0FF&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/josephfrancis60">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=synthwave&border_radius=0&cache_seconds=86400&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/josephfrancis60">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=josephfrancis60&repo=josephfrancis60&theme=synthwave&show_owner=true&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&hide_border=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josephfrancis60&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" alt="trophies" />
+</p>
+
+<br/>
+
+<!-- Metrics: Languages (most-used + recently-used) -->
+<p align="center">
+  <img src="./assets/metrics/metrics-languages.svg" width="49%" alt="Language Usage" />
+  <img src="./assets/metrics/metrics-achievements.svg" width="49%" alt="Achievements" />
+</p>
+
+<br/>
+
+<!-- Metrics: Discussions/Reactions -->
+<p align="center">
+  <img src="./assets/metrics/metrics-discussions.svg" width="100%" alt="Discussions & Reactions" />
+</p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     DIVIDER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/decorations/divider.svg" width="100%" alt="" />
+</p>
+
+<!-- Quote image — place the downloaded GIF/PNG as: assets/decorations/never-said-code-one-day.png -->
+<p align="center">
+  <img src="./assets/decorations/never-said-code-one-day.png" width="600" alt="I never said I could code it in one day" />
+</p>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./assets/banners/banner-footer.svg" width="100%" alt="footer" />
+</p>
