@@ -18,7 +18,8 @@ jobs:
       # 1.  Activity  (calendar + recent activity chart)
       # ──────────────────────────────────────────────────────────────────
       - name: Activity metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/metrics-activity.svg
@@ -32,10 +33,11 @@ jobs:
           committer_gist: ""
 
       # ──────────────────────────────────────────────────────────────────
-      # 2.  Languages  (most-used + recently-used)
+      # 2.  Languages  (most-used only — no indepth / recently-used)
       # ──────────────────────────────────────────────────────────────────
       - name: Languages metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/metrics-languages.svg
@@ -52,7 +54,8 @@ jobs:
       # 3.  Achievements
       # ──────────────────────────────────────────────────────────────────
       - name: Achievements metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/metrics-achievements.svg
@@ -67,7 +70,8 @@ jobs:
       # 4.  Issue/PR discussions  (reactions + discussions)
       # ──────────────────────────────────────────────────────────────────
       - name: Discussions metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/metrics-discussions.svg
