@@ -1,0 +1,27 @@
+<svg width="210" height="38" viewBox="0 0 210 38" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="ABOUT_ME.exe">
+  <title>ABOUT_ME.exe</title>
+  <!-- Shadow -->
+  <rect x="4" y="4" width="206" height="34" fill="#000000" opacity="0.6"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="206" height="34" fill="#0D0221"/>
+  <!-- Color tint -->
+  <rect x="0" y="0" width="206" height="34" fill="#00F0FF" opacity="0.10"/>
+  <!-- Border -->
+  <rect x="2" y="2" width="202" height="30" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <!-- Corner accents -->
+  <rect x="0" y="0" width="4" height="4" fill="#00F0FF"/>
+  <rect x="202" y="0" width="4" height="4" fill="#00F0FF"/>
+  <rect x="0" y="30" width="4" height="4" fill="#00F0FF"/>
+  <rect x="202" y="30" width="4" height="4" fill="#00F0FF"/>
+  <!-- Pixel Icon: Person/User -->
+  <g transform="translate(12, 8)">
+    <rect x="6" y="0" width="6" height="6" fill="#00F0FF"/>
+    <rect x="4" y="8" width="10" height="2" fill="#00F0FF"/>
+    <rect x="2" y="10" width="14" height="2" fill="#00F0FF"/>
+    <rect x="2" y="12" width="14" height="2" fill="#00F0FF"/>
+    <rect x="2" y="14" width="6" height="2" fill="#00F0FF"/>
+    <rect x="10" y="14" width="6" height="2" fill="#00F0FF"/>
+  </g>
+  <!-- Label -->
+  <text x="46" y="18" font-family="'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#00F0FF" dominant-baseline="central">ABOUT_ME.exe</text>
+</svg>

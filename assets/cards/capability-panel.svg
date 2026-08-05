@@ -1,0 +1,43 @@
+<svg width="560" height="210" viewBox="0 0 560 210"
+     xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges"
+     role="img" aria-label="SYSTEM CAPABILITIES">
+  <title>SYSTEM CAPABILITIES</title>
+  <!-- Shadow -->
+  <rect x="4" y="4" width="556" height="206" fill="#000000" opacity="0.55"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="560" height="210" fill="#0D0221"/>
+  <!-- Tint -->
+  <rect x="0" y="0" width="560" height="210" fill="#00F0FF" opacity="0.06"/>
+  <!-- Border -->
+  <rect x="2" y="2" width="556" height="206" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <!-- Top strip -->
+  <rect x="2" y="2" width="556" height="34" fill="#00F0FF" opacity="0.12"/>
+  <!-- Corner TL -->
+  <rect x="0" y="0" width="10" height="2" fill="#00F0FF"/>
+  <rect x="0" y="0" width="2" height="10" fill="#00F0FF"/>
+  <!-- Corner TR -->
+  <rect x="550" y="0" width="10" height="2" fill="#00F0FF"/>
+  <rect x="558" y="0" width="2" height="10" fill="#00F0FF"/>
+  <!-- Corner BL -->
+  <rect x="0" y="208" width="10" height="2" fill="#00F0FF"/>
+  <rect x="0" y="200" width="2" height="10" fill="#00F0FF"/>
+  <!-- Corner BR -->
+  <rect x="550" y="208" width="10" height="2" fill="#00F0FF"/>
+  <rect x="558" y="200" width="2" height="10" fill="#00F0FF"/>
+  <!-- Blink dot -->
+  <rect x="14" y="13" width="6" height="6" fill="#00F0FF">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Title -->
+  <text x="28" y="20" font-family="Courier New, monospace" font-size="11"
+        font-weight="700" letter-spacing="2" fill="#00F0FF" dominant-baseline="central">
+    // SYSTEM CAPABILITIES
+  </text>
+  <!-- Separator -->
+  <rect x="2" y="36" width="556" height="1" fill="#00F0FF" opacity="0.4"/>
+  <text x="28" y="52" font-family="Courier New, monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#00F0FF" dominant-baseline="central">&gt; Multi-Agent AI Systems</text>
+  <text x="28" y="80" font-family="Courier New, monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#00F0FF" dominant-baseline="central">&gt; Workflow Automation</text>
+  <text x="28" y="108" font-family="Courier New, monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#00F0FF" dominant-baseline="central">&gt; Voice and Conversational AI</text>
+  <text x="28" y="136" font-family="Courier New, monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#00F0FF" dominant-baseline="central">&gt; AI Integration and API Engineering</text>
+  <text x="28" y="164" font-family="Courier New, monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#00F0FF" dominant-baseline="central">&gt; Full-Stack AI Applications</text>
+</svg>

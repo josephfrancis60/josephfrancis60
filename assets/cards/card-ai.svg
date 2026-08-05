@@ -1,0 +1,39 @@
+<svg width="380" height="177" viewBox="0 0 380 177" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="crispEdges" role="img" aria-label="AI SYSTEMS">
+  <title>AI SYSTEMS</title>
+  <!-- Shadow -->
+  <rect x="4" y="4" width="376" height="173" fill="#000000" opacity="0.55"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="380" height="177" fill="#0D0221"/>
+  <!-- Color tint -->
+  <rect x="0" y="0" width="380" height="177" fill="#FF2E88" opacity="0.06"/>
+  <!-- Outer border -->
+  <rect x="2" y="2" width="376" height="173" fill="none" stroke="#FF2E88" stroke-width="2"/>
+  <!-- Top accent strip -->
+  <rect x="2" y="2" width="376" height="34" fill="#FF2E88" opacity="0.12"/>
+  <!-- Corner TL -->
+  <rect x="0"  y="0"  width="10" height="2"  fill="#FF2E88"/>
+  <rect x="0"  y="0"  width="2"  height="10" fill="#FF2E88"/>
+  <!-- Corner TR -->
+  <rect x="370" y="0"            width="10" height="2"  fill="#FF2E88"/>
+  <rect x="378"  y="0"            width="2"  height="10" fill="#FF2E88"/>
+  <!-- Corner BL -->
+  <rect x="0"                  y="175"  width="10" height="2"  fill="#FF2E88"/>
+  <rect x="0"                  y="167" width="2"  height="10" fill="#FF2E88"/>
+  <!-- Corner BR -->
+  <rect x="370"  y="175"  width="10" height="2"  fill="#FF2E88"/>
+  <rect x="378"   y="167" width="2"  height="10" fill="#FF2E88"/>
+  <!-- Status dot -->
+  <rect x="14" y="13" width="6" height="6" fill="#FF2E88">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Title -->
+  <text x="28" y="20" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#FF2E88" dominant-baseline="central">// AI SYSTEMS</text>
+  <!-- Separator line -->
+  <rect x="2" y="36" width="376" height="1" fill="#FF2E88" opacity="0.4"/>
+  <!-- Badges -->
+  <image href="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/main/assets/badges/n8n.svg" x="77" y="52" width="88" height="33"/>
+  <image href="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/main/assets/badges/langchain.svg" x="171" y="52" width="132" height="33"/>
+  <image href="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/main/assets/badges/langgraph.svg" x="66" y="91" width="132" height="33"/>
+  <image href="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/main/assets/badges/claude.svg" x="204" y="91" width="110" height="33"/>
+  <image href="https://raw.githubusercontent.com/josephfrancis60/josephfrancis60/main/assets/badges/elevenlabs.svg" x="120" y="130" width="140" height="33"/>
+</svg>
