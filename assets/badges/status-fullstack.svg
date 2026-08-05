@@ -1,0 +1,12 @@
+<svg width="218" height="33" viewBox="0 0 218 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="FULL STACK: .NET + REACT">
+  <title>FULL STACK: .NET + REACT</title>
+  <rect x="3" y="3" width="215" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="215" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="215" height="30" fill="#FFD400" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="212" height="27" fill="none" stroke="#FFD400" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#FFD400">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  
+  <text x="26" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#FFD400" dominant-baseline="central">FULL STACK: .NET + REACT</text>
+</svg>

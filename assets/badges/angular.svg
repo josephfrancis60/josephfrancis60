@@ -1,0 +1,12 @@
+<svg width="118" height="33" viewBox="0 0 118 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Angular">
+  <title>Angular</title>
+  <rect x="3" y="3" width="115" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="115" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="115" height="30" fill="#0F0F11" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="112" height="27" fill="none" stroke="#0F0F11" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#0F0F11">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z" fill="#0F0F11"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#0F0F11" dominant-baseline="central">Angular</text>
+</svg>

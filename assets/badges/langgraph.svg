@@ -1,0 +1,12 @@
+<svg width="132" height="33" viewBox="0 0 132 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="LangGraph">
+  <title>LangGraph</title>
+  <rect x="3" y="3" width="129" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="129" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="129" height="30" fill="#7FC8FF" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="126" height="27" fill="none" stroke="#7FC8FF" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#7FC8FF">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M5 19H10A5 5 0 115 14ZM19 14A5 5 0 1114 19H19ZM10 5A5 5 0 105 10V5ZM19 5V10A5 5 0 1014 5Z" fill="#7FC8FF"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#7FC8FF" dominant-baseline="central">LangGraph</text>
+</svg>

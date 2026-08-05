@@ -1,0 +1,12 @@
+<svg width="95" height="33" viewBox="0 0 95 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label=".NET">
+  <title>.NET</title>
+  <rect x="3" y="3" width="92" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="92" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="92" height="30" fill="#512BD4" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="89" height="27" fill="none" stroke="#512BD4" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#512BD4">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z" fill="#512BD4"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#512BD4" dominant-baseline="central">.NET</text>
+</svg>

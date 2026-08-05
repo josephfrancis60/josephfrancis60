@@ -1,0 +1,12 @@
+<svg width="118" height="33" viewBox="0 0 118 33" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Netlify">
+  <title>Netlify</title>
+  <rect x="3" y="3" width="115" height="30" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="115" height="30" fill="#0D0221"/>
+  <rect x="0" y="0" width="115" height="30" fill="#00C7B7" opacity="0.14"/>
+  <rect x="1.5" y="1.5" width="112" height="27" fill="none" stroke="#00C7B7" stroke-width="2"/>
+  <rect x="12" y="12" width="6" height="6" fill="#00C7B7">
+    <animate attributeName="opacity" values="1;1;0.15;0.15;1" keyTimes="0;0.35;0.4;0.85;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(26, 8.5) scale(0.5417)"><path d="M6.49 19.04h-.23L5.13 17.9v-.23l1.73-1.71h1.2l.15.15v1.2L6.5 19.04ZM5.13 6.31V6.1l1.13-1.13h.23L8.2 6.68v1.2l-.15.15h-1.2L5.13 6.31Zm9.96 9.09h-1.65l-.14-.13v-3.83c0-.68-.27-1.2-1.1-1.23-.42 0-.9 0-1.43.02l-.07.08v4.96l-.14.14H8.9l-.13-.14V8.73l.13-.14h3.7a2.6 2.6 0 0 1 2.61 2.6v4.08l-.13.14Zm-8.37-2.44H.14L0 12.82v-1.64l.14-.14h6.58l.14.14v1.64l-.14.14Zm17.14 0h-6.58l-.14-.14v-1.64l.14-.14h6.58l.14.14v1.64l-.14.14ZM11.05 6.55V1.64l.14-.14h1.65l.14.14v4.9l-.14.14h-1.65l-.14-.13Zm0 15.81v-4.9l.14-.14h1.65l.14.13v4.91l-.14.14h-1.65l-.14-.14Z" fill="#00C7B7"/></g>
+  <text x="46" y="15.5" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.5" fill="#00C7B7" dominant-baseline="central">Netlify</text>
+</svg>
