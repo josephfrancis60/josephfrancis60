@@ -221,10 +221,9 @@
 
 <br/>
 
-<!-- Metrics: Languages (most-used + recently-used) -->
+<!-- Metrics: Achievements -->
 <p align="center">
-  <img src="./assets/metrics/metrics-languages.svg" width="49%" alt="Language Usage" />
-  <img src="./assets/metrics/metrics-achievements.svg" width="49%" alt="Achievements" />
+  <img src="./assets/metrics/metrics-achievements.svg" width="100%" alt="Achievements" />
 </p>
 
 <br/>

@@ -33,25 +33,7 @@ jobs:
           committer_gist: ""
 
       # ──────────────────────────────────────────────────────────────────
-      # 2.  Languages  (most-used only — no indepth / recently-used)
-      # ──────────────────────────────────────────────────────────────────
-      - name: Languages metrics
-        uses: lowlighter/metrics@v3.34
-        continue-on-error: true
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/metrics/metrics-languages.svg
-          base: ""
-          plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          config_timezone: Asia/Kolkata
-
-      # ──────────────────────────────────────────────────────────────────
-      # 3.  Achievements
+      # 2.  Achievements
       # ──────────────────────────────────────────────────────────────────
       - name: Achievements metrics
         uses: lowlighter/metrics@v3.34
@@ -67,7 +49,7 @@ jobs:
           config_timezone: Asia/Kolkata
 
       # ──────────────────────────────────────────────────────────────────
-      # 4.  Issue/PR discussions  (reactions + discussions)
+      # 3.  Issue/PR discussions  (reactions + discussions)
       # ──────────────────────────────────────────────────────────────────
       - name: Discussions metrics
         uses: lowlighter/metrics@v3.34
