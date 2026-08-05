@@ -59,36 +59,71 @@
   <img src="./assets/tabs/tab-mission-control.svg" height="38" alt="Mission Control" />
 </p>
 
-<sub>&nbsp;// 53 custom pixel-chip badges — real logos, official brand colors, zero shields.io &nbsp;</sub>
+<!-- <sub>&nbsp;// 53 custom pixel-chip badges — real logos, official brand colors, zero shields.io &nbsp;</sub> -->
 
 <br/><br/>
 
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/cards/card-ai.svg" width="380" alt="AI Systems" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/cards/card-build.svg" width="380" alt="Build Stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/cards/card-cloud.svg" width="380" alt="Infrastructure" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/cards/card-data.svg" width="380" alt="Data" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/cards/card-toolkit.svg" width="380" alt="Creator Toolkit" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/cards/card-languages.svg" width="380" alt="Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- AI Systems -->
+  <img src="./assets/badges/n8n.svg" height="30"/>
+  <img src="./assets/badges/langchain.svg" height="30"/>
+  <img src="./assets/badges/langgraph.svg" height="30"/>
+  <img src="./assets/badges/claude.svg" height="30"/>
+  <img src="./assets/badges/elevenlabs.svg" height="30"/>
+  <br/>
+  <!-- Build Stack -->
+  <img src="./assets/badges/react.svg" height="30"/>
+  <img src="./assets/badges/nextjs.svg" height="30"/>
+  <img src="./assets/badges/dotnet.svg" height="30"/>
+  <img src="./assets/badges/nodedotjs.svg" height="30"/>
+  <img src="./assets/badges/express.svg" height="30"/>
+  <img src="./assets/badges/fastapi.svg" height="30"/>
+  <img src="./assets/badges/flask.svg" height="30"/>
+  <img src="./assets/badges/vite.svg" height="30"/>
+  <img src="./assets/badges/angular.svg" height="30"/>
+  <img src="./assets/badges/bootstrap.svg" height="30"/>
+  <br/>
+  <!-- Infrastructure -->
+  <img src="./assets/badges/docker.svg" height="30"/>
+  <img src="./assets/badges/kubernetes.svg" height="30"/>
+  <img src="./assets/badges/azure.svg" height="30"/>
+  <img src="./assets/badges/googlecloud.svg" height="30"/>
+  <img src="./assets/badges/github.svg" height="30"/>
+  <img src="./assets/badges/git.svg" height="30"/>
+  <img src="./assets/badges/vercel.svg" height="30"/>
+  <img src="./assets/badges/render.svg" height="30"/>
+  <img src="./assets/badges/netlify.svg" height="30"/>
+  <br/>
+  <!-- Data -->
+  <img src="./assets/badges/postgresql.svg" height="30"/>
+  <img src="./assets/badges/mssql.svg" height="30"/>
+  <img src="./assets/badges/mysql.svg" height="30"/>
+  <img src="./assets/badges/sqlite.svg" height="30"/>
+  <img src="./assets/badges/jwt.svg" height="30"/>
+  <br/>
+  <!-- Creator Toolkit -->
+  <img src="./assets/badges/postman.svg" height="30"/>
+  <img src="./assets/badges/swagger.svg" height="30"/>
+  <img src="./assets/badges/openapiinitiative.svg" height="30"/>
+  <img src="./assets/badges/figma.svg" height="30"/>
+  <img src="./assets/badges/canva.svg" height="30"/>
+  <img src="./assets/badges/powerbi.svg" height="30"/>
+  <img src="./assets/badges/twilio.svg" height="30"/>
+  <img src="./assets/badges/arduino.svg" height="30"/>
+  <img src="./assets/badges/raspberrypi.svg" height="30"/>
+  <br/>
+  <!-- Languages -->
+  <img src="./assets/badges/python.svg" height="30"/>
+  <img src="./assets/badges/csharp.svg" height="30"/>
+  <img src="./assets/badges/cplusplus.svg" height="30"/>
+  <img src="./assets/badges/typescript.svg" height="30"/>
+  <img src="./assets/badges/javascript.svg" height="30"/>
+  <img src="./assets/badges/html5.svg" height="30"/>
+  <img src="./assets/badges/css.svg" height="30"/>
+  <img src="./assets/badges/markdown.svg" height="30"/>
+  <img src="./assets/badges/gnubash.svg" height="30"/>
+  <img src="./assets/badges/powershell.svg" height="30"/>
+</p>
 
 <br/>
 
@@ -208,14 +243,14 @@
   <img src="./assets/decorations/divider.svg" width="100%" alt="" />
 </p>
 
+<!-- Quote image — place the downloaded GIF/PNG as: assets/decorations/never-said-code-one-day.png -->
+<p align="center">
+  <img src="./assets/decorations/never-said-code-one-day.png" width="600" alt="I never said I could code it in one day" />
+</p>
+
 <!-- ══════════════════════════════════════════════════════════════════
      FOOTER
 ══════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="./assets/banners/banner-footer.svg" width="100%" alt="footer" />
-</p>
-
-<!-- Quote image — place the downloaded GIF/PNG as: assets/decorations/never-said-code-one-day.png -->
-<p align="center">
-  <img src="./assets/decorations/never-said-code-one-day.png" width="600" alt="I never said I could code it in one day" />
 </p>
