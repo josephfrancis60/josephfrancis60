@@ -33,6 +33,20 @@ jobs:
           committer_gist: ""
 
       # ──────────────────────────────────────────────────────────────────
+      # 1.5 Isometric Commit Calendar
+      # ──────────────────────────────────────────────────────────────────
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@v3.34
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/metrics-isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Kolkata
+
+      # ──────────────────────────────────────────────────────────────────
       # 2.  Achievements
       # ──────────────────────────────────────────────────────────────────
       - name: Achievements metrics
