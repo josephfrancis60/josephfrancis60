@@ -177,20 +177,20 @@
 <!-- GitHub Stats (rate-limit-safe, custom Vercel endpoints, borderless) -->
 <p align="center">
   <a href="https://github.com/josephfrancis60">
-    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=synthwave&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&border_radius=0&cache_seconds=86400" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=synthwave&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&border_radius=0&cache_seconds=86400" width="48%" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/josephfrancis60">
-    <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=josephfrancis60&theme=nightowl&background=0,000000,1a0040&fire=00F0FF&ring=FF2E88&sideNums=ffffff&sideLabels=ffffff&dates=00F0FF&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=josephfrancis60&theme=nightowl&background=0,000000,1a0040&fire=00F0FF&ring=FF2E88&sideNums=ffffff&sideLabels=ffffff&dates=00F0FF&currStreakNum=ffffff&hide_border=true" width="48%" alt="Streak Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/josephfrancis60">
-    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=synthwave&border_radius=0&cache_seconds=86400&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=josephfrancis60&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=synthwave&border_radius=0&cache_seconds=86400&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff" width="48%" alt="Top Languages" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/josephfrancis60">
-    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=josephfrancis60&repo=josephfrancis60&theme=synthwave&show_owner=true&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&hide_border=true" alt="Top Repo" />
+    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=josephfrancis60&repo=josephfrancis60&theme=synthwave&show_owner=true&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&hide_border=true" width="48%" alt="Top Repo" />
   </a>
 </p>
 
@@ -198,11 +198,11 @@
 
 <!-- Trophies, Achievements & Discussions (Aligned in the same row) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josephfrancis60&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" height="115" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=josephfrancis60&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" width="30%" alt="trophies" />
   &nbsp;&nbsp;
-  <img src="./assets/metrics/metrics-achievements.svg" height="115" alt="Achievements" />
+  <img src="./assets/metrics/metrics-achievements.svg" width="30%" alt="Achievements" />
   &nbsp;&nbsp;
-  <img src="./assets/metrics/metrics-discussions.svg" height="115" alt="Discussions & Reactions" />
+  <img src="./assets/metrics/metrics-discussions.svg" width="30%" alt="Discussions & Reactions" />
 </p>
 
 <br/>
