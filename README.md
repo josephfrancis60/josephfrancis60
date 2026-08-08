@@ -177,7 +177,7 @@
 <!-- GitHub Stats (rate-limit-safe, custom Vercel endpoints, borderless) -->
 <p align="center">
   <a href="https://github.com/josephfrancis60">
-    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=synthwave&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&border_radius=0&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=josephfrancis60&count_private=true&show_icons=true&theme=synthwave&bg_color=0,000000,1a0040&title_color=00F0FF&text_color=ffffff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&border_radius=0&cache_seconds=86400" width="48%" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/josephfrancis60">
